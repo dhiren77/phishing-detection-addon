@@ -1,4 +1,5 @@
-The references used in this project are listed below:
+=Related Work=
+
 1. Y. Zhang, J. Hong, and L. Cranor, "CANTINA: A content-based approach to detecting phishing web sites", 16th International world wide web conference, 2007.
 
 This paper proposed a content-based approach for phishing site detection. The authors first extract "important words" from the web page using TF-IDF, a popular information retrieval method. The authors then look these words up in a search engine, such as Google. If the the domain name doesn't show up among the first N results, then it would probably be phishing site.
@@ -15,6 +16,6 @@ Authors in this paper presented a server-side defense mechanism. Servers convert
 4. L. Cranor, S. Egelman, J. Hong, and Y. Zhang, "Phinding the phish, evaluating anti-phishing tools", NDSS 2007.
 
 The authors evaluated the effectiveness of several popular toolbars.
-'''We can utilize this information for our testing methods.''' 
+*We can utilize this information for our testing methods.*
 
 5. I. Fette, N. Sadeh, and A. Tomasic, "Learning to detect phishing emails", ISRI technical report, CMU-ISRI-06-112, 2006.
