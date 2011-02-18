@@ -1,0 +1,20 @@
+The references used in this project are listed below:
+1. Y. Zhang, J. Hong, and L. Cranor, "CANTINA: A content-based approach to detecting phishing web sites", 16th International world wide web conference, 2007.
+
+This paper proposed a content-based approach for phishing site detection. The authors first extract "important words" from the web page using TF-IDF, a popular information retrieval method. The authors then look these words up in a search engine, such as Google. If the the domain name doesn't show up among the first N results, then it would probably be phishing site.
+The authors also utilized some heuristics to improve their accuracy. The heuristics used in their work include age of domain, known images, suspicious URL, suspicious links, IP address, dots in URL, forms.
+
+
+2. Anthony Y. Fu, W. Liu, X. Deng, "Detecting phishing web pages with visual similarity assessment based on earth mover's distance (EMD)", IEEE tran. on dependable and secure computing, vol 3, no. 4. pp301- 402.
+
+Authors in this paper presented a server-side defense mechanism. Servers convert the linked web sites in emails into images, and compare the images with the stored authenticate images based on a measure called EMD. If the images matches any of those authenticated images but has a different domain name, then this web site will be classified as phishing site.
+
+
+3. N. Chou, R. Ledesma, Y. Teraguchi, D. Boneh, and J.C. Mitchell, "Client side defense against web-based identity theft", NDSS 2004.
+
+4. L. Cranor, S. Egelman, J. Hong, and Y. Zhang, "Phinding the phish, evaluating anti-phishing tools", NDSS 2007.
+
+The authors evaluated the effectiveness of several popular toolbars.
+'''We can utilize this information for our testing methods.''' 
+
+5. I. Fette, N. Sadeh, and A. Tomasic, "Learning to detect phishing emails", ISRI technical report, CMU-ISRI-06-112, 2006.
