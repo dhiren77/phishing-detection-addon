@@ -1,3 +1,0 @@
-#summary One-sentence summary of this page.
-
-The references used in this project are listed below:
