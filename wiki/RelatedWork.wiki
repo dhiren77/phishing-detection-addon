@@ -19,3 +19,9 @@ The authors evaluated the effectiveness of several popular toolbars.
 *We can utilize this information for our testing methods.*
 
 #5. I. Fette, N. Sadeh, and A. Tomasic, "Learning to detect phishing emails", ISRI technical report, CMU-ISRI-06-112, 2006.
+
+#6. Christine E. Drake, Jonathan J. Oliver, and Eugene J. Koontz. "Anatomy of a Phishing Email", Conference on Email and Anti-spam 2004.
+
+#7. Andr´e Bergholz,Luigi D’Addona. "A Real-Life Study in Phishing Detection", Conference on Email and Anti-spam 2010.
+
+#8. Saeed Abu-Nimeh, Dario Nappa, Xinlei Wang, and Suku Nair. "A Comparison of Machine Learning Techniques for Phishing Detection", eCrime Researchers Summit 2007.
