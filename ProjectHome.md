@@ -1,0 +1,1 @@
+This project is aimed to design a state-of-the-art phishing detection tool.
